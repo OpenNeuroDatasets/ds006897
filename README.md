@@ -10,7 +10,7 @@ The analytical code used to process and analyze the data is publicly available a
 
 ## Related publication
 
-Roy, N., Deslauriers, C., Côté-Cazes, T., Etcheverry, A., & Coll, M.-P. ([Year]). No effect of rhythmic visual stimulation on experimental pain perception. *[Journal Name]*, *[Volume]*([Issue]), [Page range]. [DOI or URL]
+Roy, N., Deslauriers, C., Côté-Cazes, T., Etcheverry, A., & Coll, M.-P. (2026). No effect of rhythmic visual stimulation on experimental pain perception. *[Journal Name]*, *[Volume]*([Issue]), [Page range]. [DOI or URL]
 
 ### Notes
 
